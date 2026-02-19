@@ -26,4 +26,4 @@ export const weatherTool = tool({
 
 export const tools = {
   getWeather: weatherTool,
-};
+};  
